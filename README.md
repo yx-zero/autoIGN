@@ -1,9 +1,10 @@
 Made by yxzero
 
+cheap xgp alts: https://zzxgp.mysellauth.com/
+
 You need install python!
 
-Windows 10 - https://www.python.org/downloads/
-Windows 11 - https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-us&gl=US
+Windows - https://www.python.org/downloads/
 
 Open CMD and past this command: pip install selenium
 Past your account (no ign) in input.txt
