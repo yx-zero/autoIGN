@@ -1,18 +1,37 @@
-Made by yxzero
+# Made by yxzero
 
-cheap xgp alts: https://zzxgp.mysellauth.com/
+## 💸 Cheap XGP Alts  
+👉 [https://zzxgp.mysellauth.com/](https://zzxgp.mysellauth.com/)
 
-You need install python!
+---
 
-Windows - https://www.python.org/downloads/
+## 📥 You need install Python!
 
-How to use:
+**Windows:**  
+➡️ [Download Python](https://www.python.org/downloads/)
 
-1. Open CMD and past this command: pip install selenium
+---
 
-2. Paste your account (no ign) in input.txt
-Must follow the format: email----pass
+## 🚀 How to use
 
-3. Run Start.bat
+1. **Open CMD** and paste this command:
 
-Outputs will be in output.txt, and fails will be in fail.txt
+   ```bash
+   pip install selenium
+   ```
+
+2. **Paste your account (no ign)** in `input.txt`  
+   Must follow the format:
+
+   ```txt
+   email----pass
+   ```
+
+3. **Run** `Start.bat`
+
+---
+
+## 📄 Outputs
+
+- ✅ **Success:** `output.txt`  
+- ❌ **Failed:** `fail.txt`
