@@ -1,7 +1,7 @@
 # Made by yxzero
 
 ## 💸 Cheap XGP Alts  
-👉 [https://zzxgp.mysellauth.com/](https://zzxgp.mysellauth.com/)
+👉 [https://zzxgp.me/](https://zzxgp.me/)
 
 ---
 
