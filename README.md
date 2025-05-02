@@ -24,7 +24,7 @@
    Must follow the format:
 
    ```txt
-   email----pass
+   email:pass
    ```
 
 3. **Run** `Start.bat`
