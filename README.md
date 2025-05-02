@@ -14,10 +14,11 @@
 
 ## 🚀 How to use
 
-1. **Open CMD** and paste this command:
+1. **Open CMD** and paste these two commands:
 
    ```bash
    pip install selenium
+   pip install nltk
    ```
 
 2. **Paste your account (no ign)** in `input.txt`  
