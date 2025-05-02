@@ -100,7 +100,7 @@ def get_accounts():
     with open("input.txt", "r", encoding="utf-8") as f:
         lines = [line.strip() for line in f if line.strip()]
     for line in lines:
-        parts = line.split("----", 1)
+        parts = line.split(":", 1)
         if len(parts) == 2:
             valid_accounts.append(parts)
     with open("input.txt", "w", encoding="utf-8") as f:
